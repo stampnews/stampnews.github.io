@@ -19,7 +19,7 @@ highlight_name: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Philately
+  - name: Philatley
     url: https://stampnews.github.io/
 
 # Social network links
