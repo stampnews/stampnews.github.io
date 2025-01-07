@@ -19,7 +19,7 @@ highlight_name: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Philately
     url: https://stampnews.github.io/
 
 # Social network links
@@ -37,6 +37,6 @@ interests:
 
 ---
 
-## 
+## About
 
-This newspaper is a lighthearted publication dedicated to the joy of stamp collecting. It chronicles the author’s personal adventures in the hobby, sharing discoveries, stories, and insights along the way. Designed purely for fun, it invites readers to join in the excitement of exploring the world through stamps.
+This is a lighthearted publication dedicated to the joy of stamp collecting. It chronicles the author’s personal adventures in the hobby, sharing discoveries, stories, and insights along the way. Designed purely for fun, it invites readers to join in the excitement of exploring the world through stamps.
