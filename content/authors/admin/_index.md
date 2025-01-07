@@ -34,6 +34,7 @@ interests:
   - Postmarks and cancellations
   - Numeral stamps
   - Various small collecting areas 
+  - Perfins
 
 ---
 
