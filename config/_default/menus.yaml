@@ -8,7 +8,7 @@ main:
     url: /#Welcome
     weight: 10
   - name: Stamps
-    url: /#stamps
+    url: /#Stamps
     weight: 11
   - name: Links
     url: /#Links
