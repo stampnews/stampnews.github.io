@@ -1,4 +1,5 @@
 ---
-title: Stamps
-view: article-grid
+title: "Stamps"
+summary: "Notes and finds"
+layout: list
 ---
